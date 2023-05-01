@@ -28,23 +28,23 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <a href="https://ktjpglobal.com/" target="_blank">
+          <a href="https://ktjpglobal.com/" target="_blank" rel="noopener">
             <img src={Ktjp} alt="" /> 
           </a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href="https://relvise-landing-page.netlify.app/" target="_blank">
+          <a href="https://relvise-landing-page.netlify.app/" target="_blank" rel="noopener">
             <img src={Relvise} alt="" />
           </a>
           
         </SwiperSlide>
         <SwiperSlide>
-          <a href="https://julyprint.com/" target="_blank">
+          <a href="https://julyprint.com/" target="_blank" rel="noopener">
             <img src={Julyprint} alt="" />
           </a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href="https://react-fashion-webshop.netlify.app/" target="_blank">
+          <a href="https://react-fashion-webshop.netlify.app/" target="_blank" rel="noopener">
             <img src={Fashionshop} alt="" />
           </a>
         </SwiperSlide>
